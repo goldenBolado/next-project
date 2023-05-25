@@ -1,14 +1,11 @@
-import { Roboto } from 'next/font/google';
- 
-const roboto = Roboto({
-  weight: '400',
-  subsets: ['latin'],
-  display: 'swap',
-});
+import './globals.css'
+import { Inter } from 'next/font/google'
+
+const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Next é foda... entenda',
-  description: 'Criado com next porque nois é foda',
+  title: 'NextJS', 
+  description: 'Motivos para usar NEXTJS',
 }
 
 export default function RootLayout({
@@ -18,7 +15,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
-      <body className={roboto.className}>{children}</body>
+      <body className={inter.className}>{children}</body>
     </html>
   )
 }
