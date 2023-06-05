@@ -1,0 +1,11 @@
+.Diferenças entre Next e os demais frameworks:
+    O next comparado ao restante de seus concorrentes é bem mais simples de usar, isso porque ele pega a estrutura do React e pega somente o mais relevante,
+    sendo que pela comunidade do next ele é conhecido como "React light". 
+
+    Isso o torna bem mais fácil de se usar, sem contar as alterações feitas pelo next que melhora a qualidade de vida do programador, um dos exemplos que
+    vimos foi o next sendo capaz de fazer uma linkagem com outra página de forma automatica por somente usar a estruturas de arquivos do framework.
+
+    Agora que tiramos seu maior concorrente vamos falar dos demais. Os outros frameworks como o Sue, Vue que são frameworks ao MEU ver são mais complicados
+    o fato de nós estarmos aprendendo React torna o aprendizado de Next mais fácil, além do Next ja ser mais fácil. Mas nem tudo são mil maravilhas, a 
+    quantidade de atualizações constantes do Next o torna bem dificil de se manter datado, sendo que nem a própria documentação esta 100% recente com as 
+    atualizações do framework isso para alguem que esta aprendendo pode não parecer tão atrativo.
