@@ -1,0 +1,9 @@
+Diferenças entre os frameworks React, Next, Vue e Svelte.
+	Nós foi apresentado 4 frameworks, sendo eles React, Next, Vue e Svelte, react sendo o mais velho entre eles e possuindo o conteúdo mais completo entre os apresentados, foi dito que sua estrutura e feita para otimizar tempo de tela, que seria basicamente reutilizar partes já feitas pelo programador, uma de suas dualidades é que já esta estruturada no mercado, além de possuir uma comunidade muito bem estruturada que todos já estão acostumados com seus erros e como corrigi-los.
+	Next é um framework parecido estruturalmente com React, Next sendo o mais novo os outros frameworks apresentados, possui uma otimização melhor e uma renderização (individual), onde apenas renderiza oque o programador desejar, isso otimiza muito a pagina e as pessoas que não possui uma máquina ou conexão boa, o Next possui várias atualizações recorrentes.
+	Vue foi apresentado como um framework substituto do Angular, com uma otimização simples para projetos médios/pequenos, sua renderização é por nuvem onde a pagina se atualiza por completo.
+	Svelte um framework para projetos básicos a avançados possui uma estrutura parecida com o React, mas sua estrutura de pastas é mais simples e mais organizada, porem sua linha de aprendizagem é complexa para novos programadores e se você não tiver uma base solida poderá se perder no Svelte.
+
+De forma básica eu escolho o Next.
+Nome: Bryan Belarmino Moreira.
+S
